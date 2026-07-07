@@ -3,3 +3,4 @@
 - Studying inflationary vs deflationary tokens.
 - Improving long term project planning.
 - Exploring staking reward mechanisms.
+- Exploring upgradeable contract design.

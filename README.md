@@ -4,3 +4,4 @@
 - Improving long term project planning.
 - Exploring staking reward mechanisms.
 - Exploring upgradeable contract design.
+- Learning about blockchain indexing services.

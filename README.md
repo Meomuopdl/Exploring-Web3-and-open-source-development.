@@ -7,3 +7,4 @@
 - Learning about blockchain indexing services.
 - Studying transaction mempool behavior.
 - Reviewing liquidation mechanisms.
+- Reviewing smart contract deployment networks.

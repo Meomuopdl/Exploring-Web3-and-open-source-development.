@@ -10,3 +10,4 @@
 - Reviewing smart contract deployment networks.
 - Reviewing blockchain governance case studies.
 - Practicing consistent commit messages.
+- Understanding pull requests.

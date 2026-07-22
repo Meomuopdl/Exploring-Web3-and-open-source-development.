@@ -11,3 +11,4 @@
 - Reviewing blockchain governance case studies.
 - Practicing consistent commit messages.
 - Understanding pull requests.
+- Exploring Ethereum Virtual Machine concepts.

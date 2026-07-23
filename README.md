@@ -12,3 +12,4 @@
 - Practicing consistent commit messages.
 - Understanding pull requests.
 - Exploring Ethereum Virtual Machine concepts.
+- Studying ERC-20 fundamentals.

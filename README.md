@@ -15,3 +15,4 @@
 - Studying ERC-20 fundamentals.
 - Exploring Layer 2 technologies.
 - Adding clearer documentation sections.
+- Studying open source contribution models.

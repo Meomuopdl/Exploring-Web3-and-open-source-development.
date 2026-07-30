@@ -17,3 +17,4 @@
 - Adding clearer documentation sections.
 - Studying open source contribution models.
 - Improving repository readability.
+- Improving documentation formatting again.

@@ -18,3 +18,4 @@
 - Studying open source contribution models.
 - Improving repository readability.
 - Improving documentation formatting again.
+- Exploring developer tooling options.

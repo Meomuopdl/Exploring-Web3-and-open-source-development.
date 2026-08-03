@@ -19,3 +19,6 @@
 - Improving repository readability.
 - Improving documentation formatting again.
 - Exploring developer tooling options.
+
+## August :
+- Improving commit message clarity.

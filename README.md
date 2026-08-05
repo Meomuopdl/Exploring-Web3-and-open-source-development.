@@ -23,3 +23,4 @@
 ## August :
 - Improving commit message clarity.
 - Reviewing token supply models.
+- Adding additional roadmap updates.

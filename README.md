@@ -25,3 +25,4 @@
 - Reviewing token supply models.
 - Adding additional roadmap updates.
 - Reviewing blockchain logging patterns.
+- Improving understanding of encryption basics.

@@ -28,3 +28,4 @@
 - Improving understanding of encryption basics.
 - Improving technical documentation habits.
 - Improving project milestone clarity.
+- Strengthening understanding of smart contract logic.

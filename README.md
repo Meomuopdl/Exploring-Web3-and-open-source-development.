@@ -29,3 +29,4 @@
 - Improving technical documentation habits.
 - Improving project milestone clarity.
 - Strengthening understanding of smart contract logic.
+- Researching scaling

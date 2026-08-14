@@ -30,3 +30,4 @@
 - Improving project milestone clarity.
 - Strengthening understanding of smart contract logic.
 - Researching scaling
+- Learning cryptography

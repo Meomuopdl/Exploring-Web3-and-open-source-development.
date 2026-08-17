@@ -31,3 +31,4 @@
 - Strengthening understanding of smart contract logic.
 - Researching scaling
 - Learning cryptography
+- Exploring RPC providers

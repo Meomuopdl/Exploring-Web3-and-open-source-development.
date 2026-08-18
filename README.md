@@ -32,3 +32,4 @@
 - Researching scaling
 - Learning cryptography
 - Exploring RPC providers
+- Learning about snapshots

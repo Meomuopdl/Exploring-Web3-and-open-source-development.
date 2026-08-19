@@ -33,3 +33,4 @@
 - Learning cryptography
 - Exploring RPC providers
 - Learning about snapshots
+- Exploring DeFi concepts

@@ -34,3 +34,4 @@
 - Exploring RPC providers
 - Learning about snapshots
 - Exploring DeFi concepts
+- Studying consensus

@@ -35,3 +35,4 @@
 - Learning about snapshots
 - Exploring DeFi concepts
 - Studying consensus
+- Reviewing gas fees

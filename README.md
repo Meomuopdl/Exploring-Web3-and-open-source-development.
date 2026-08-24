@@ -36,3 +36,4 @@
 - Exploring DeFi concepts
 - Studying consensus
 - Reviewing gas fees
+- Reviewing smart contract tests

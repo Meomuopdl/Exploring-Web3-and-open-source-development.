@@ -37,3 +37,4 @@
 - Studying consensus
 - Reviewing gas fees
 - Reviewing smart contract tests
+- Studying indexing services

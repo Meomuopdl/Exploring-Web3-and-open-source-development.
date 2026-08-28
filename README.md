@@ -39,3 +39,4 @@
 - Reviewing smart contract tests
 - Studying indexing services
 - Reviewing test coverage
+- Understanding commits

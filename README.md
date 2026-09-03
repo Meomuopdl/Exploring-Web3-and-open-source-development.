@@ -40,3 +40,4 @@
 - Studying indexing services
 - Reviewing test coverage
 - Understanding commits
+- Updating documentation

@@ -41,3 +41,4 @@
 - Reviewing test coverage
 - Understanding commits
 - Updating documentation
+- Updating summaries

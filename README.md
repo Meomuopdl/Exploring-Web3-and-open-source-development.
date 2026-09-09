@@ -42,3 +42,4 @@
 - Understanding commits
 - Updating documentation
 - Updating summaries
+- Improving clarity

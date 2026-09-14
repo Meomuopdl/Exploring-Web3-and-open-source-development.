@@ -39,8 +39,11 @@
 - Reviewing smart contract tests
 - Studying indexing services
 - Reviewing test coverage
+
+## September :
 - Understanding commits
 - Updating documentation
 - Updating summaries
 - Improving clarity
 - Updating roadmap
+- Researching Base network

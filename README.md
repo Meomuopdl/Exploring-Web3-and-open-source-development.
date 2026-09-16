@@ -47,3 +47,4 @@
 - Improving clarity
 - Updating roadmap
 - Researching Base network
+- Studying bridges

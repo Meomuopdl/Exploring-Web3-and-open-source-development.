@@ -48,3 +48,4 @@
 - Updating roadmap
 - Researching Base network
 - Studying bridges
+- Learning zk basics

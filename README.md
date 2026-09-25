@@ -49,3 +49,4 @@
 - Researching Base network
 - Studying bridges
 - Learning zk basics
+- Learning staking flow

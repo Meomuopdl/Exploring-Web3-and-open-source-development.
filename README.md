@@ -50,3 +50,4 @@
 - Studying bridges
 - Learning zk basics
 - Learning staking flow
+- Studying audit cases

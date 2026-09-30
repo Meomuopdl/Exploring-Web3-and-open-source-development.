@@ -51,3 +51,4 @@
 - Learning zk basics
 - Learning staking flow
 - Studying audit cases
+- Exploring staking pools

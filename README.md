@@ -52,3 +52,6 @@
 - Learning staking flow
 - Studying audit cases
 - Exploring staking pools
+
+## October
+- Learning how commits work in public repositories.

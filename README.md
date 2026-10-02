@@ -55,3 +55,4 @@
 
 ## October
 - Learning how commits work in public repositories.
+- Reading about decentralized applications.

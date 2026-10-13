@@ -57,3 +57,4 @@
 - Learning how commits work in public repositories.
 - Reading about decentralized applications.
 - Learning about smart contracts.
+- Writing technical learning notes.

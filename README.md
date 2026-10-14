@@ -58,3 +58,4 @@
 - Reading about decentralized applications.
 - Learning about smart contracts.
 - Writing technical learning notes.
+- Exploring Ethereum Virtual Machine concepts.

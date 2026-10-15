@@ -59,3 +59,4 @@
 - Learning about smart contracts.
 - Writing technical learning notes.
 - Exploring Ethereum Virtual Machine concepts.
+- Improving commit consistency.

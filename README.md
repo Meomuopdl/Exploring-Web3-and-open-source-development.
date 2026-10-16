@@ -60,3 +60,4 @@
 - Writing technical learning notes.
 - Exploring Ethereum Virtual Machine concepts.
 - Improving commit consistency.
+- Improving markdown headings structure.

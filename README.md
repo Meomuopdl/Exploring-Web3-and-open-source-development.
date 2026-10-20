@@ -62,3 +62,4 @@
 - Improving commit consistency.
 - Improving markdown headings structure.
 - Improving commit discipline.
+- Researching blockchain use cases.

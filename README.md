@@ -64,3 +64,4 @@
 - Improving commit discipline.
 - Researching blockchain use cases.
 - Improving development workflow efficiency.
+- Improving structured thinking in development.

@@ -65,3 +65,4 @@
 - Researching blockchain use cases.
 - Improving development workflow efficiency.
 - Improving structured thinking in development.
+- Continuing my open source development journey

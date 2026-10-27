@@ -67,3 +67,4 @@
 - Improving structured thinking in development.
 - Continuing my open source development journey
 - Reviewing token supply models.
+- Improving long term project planning.

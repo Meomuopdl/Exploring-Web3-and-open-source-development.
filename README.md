@@ -68,3 +68,4 @@
 - Continuing my open source development journey
 - Reviewing token supply models.
 - Improving long term project planning.
+- Improving markdown bullet structures.

@@ -74,3 +74,4 @@
 - Improving markdown bullet structures.
 - Learning about blockchain indexing services.
 - Studying slippage mechanics.
+- Learning about event listeners in smart contracts.

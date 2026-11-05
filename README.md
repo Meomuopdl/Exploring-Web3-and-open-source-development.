@@ -76,3 +76,4 @@
 - Studying slippage mechanics.
 - Learning about event listeners in smart contracts.
 - Learning about transaction batching.
+- Learning about lending protocols.
